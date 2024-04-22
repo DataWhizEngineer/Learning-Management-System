@@ -24,7 +24,7 @@ This project offers a user-friendly and adaptable solution for delivering educat
 
 <img src="./assets/images/photo-collage.png (1).png" width="500" height="700"> <img src="./assets/images/photo-collage.png (2).png" width="500" height="700">
 
-<img src="./assets/images/collage.jpg" width="500" height="700"> <img src="./assets/images/collage (1).jpg" width="500" height="700">
+<img src="./assets/images/collage.jpg"  height="700"> <img src="./assets/images/collage (1).jpg"  height="700">
 
 
 
