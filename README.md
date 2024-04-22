@@ -20,7 +20,7 @@ This LMS app empowers users to learn anytime, anywhere. Learners can access a va
 This project offers a user-friendly and adaptable solution for delivering educational content through a mobile platform.
 
 
-<img src="./assets/images/login_signup.jpg" width="700" height="700">
+<img src="./assets/images/login_signup.jpg" width="500" height="600">
 <img src="./assets/images/photo-collage.png.png" width="500" height="700">
 <img src="./assets/images/photo-collage.png (1).png" width="500" height="700">
 <img src="./assets/images/photo-collage.png (2).png" width="500" height="700">
