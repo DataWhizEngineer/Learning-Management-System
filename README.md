@@ -6,7 +6,7 @@ This project is a full-stack mobile learning management system (LMS) built for u
 **Key Technologies:**
 
 * **Frontend:** React Native Expo -  for a smooth and efficient mobile app experience.
-* **Backend:** Hygraph - a flexible backend-as-a-service (BaaS) platform for managing your learning content. 
+* **Backend:** Hygraph - a flexible backend-as-a-service (BaaS) platform for managing learning content. 
 * **Authentication:** Kinde - simplifies user authentication and authorization.
 
 This LMS app empowers users to learn anytime, anywhere. Learners can access a variety of educational content, enroll in courses, and track their progress – all from the comfort of their mobile devices.
