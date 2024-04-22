@@ -1,0 +1,6 @@
+export default {
+  KINDE_ISSUER_URL: "https://coderbox.kinde.com",
+  KINDE_POST_CALLBACK_URL: "exp://192.168.0.102:8081",
+  KINDE_POST_LOGOUT_REDIRECT_URL: "exp://192.168.0.102:8081",
+  KINDE_CLIENT_ID: "d7bf43446fe745cb93906bf655423cc8",
+};
